@@ -1,4 +1,4 @@
 # vimwiki
 
- * [index](./index)
+ * [index](./index.md)
  * [dotfiles](https://github.com/xyyolab/dotfiles)

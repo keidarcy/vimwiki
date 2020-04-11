@@ -33,9 +33,9 @@
  - cutomize 90000 rmb
  - chinese 3800 rmb
  - customer service ????
+ - 
  
 ## company
-
 ### 
  - name
  - what industry

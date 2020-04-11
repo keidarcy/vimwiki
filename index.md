@@ -1,5 +1,9 @@
 # My Wiki
 
+
+## List
+ * [list](./list)
+ * 
 ## DevOps
 
  * [Git](./git)
@@ -13,7 +17,7 @@
  * [vim](./vim)
  * [tmux](./tmux)
  * [snippets](./snippets)
-
+  
 
 
 

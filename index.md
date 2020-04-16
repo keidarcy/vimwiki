@@ -8,7 +8,6 @@
 ## DevOps
 
  * [Git](./git)
- * [Github Actions](./Github_Actions)
  * 
 ## Shell
 
@@ -18,8 +17,6 @@
  * [vim](./vim)
  * [tmux](./tmux)
  * [snippets](./snippets)
-  
-
 
 
 

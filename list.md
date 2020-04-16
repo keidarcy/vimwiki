@@ -4,3 +4,5 @@
  [] vuepress
  [] node
  [] vue
+ [] ranger
+ [] fzf

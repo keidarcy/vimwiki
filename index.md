@@ -1,17 +1,17 @@
 # My Wiki
 
 
-## List
+## ❯List
  * [list](./list)
  * 
-## DevOps
+## ❯DevOps
 
  * [Git](./git)
  * [Github Actions](./Github_Actions)
  * 
-## Shell
+## ❯Shell
 
-## Snippets & Tips
+## ❯Snippets & Tips
 
  * [zsh](./zsh)
  * [vim](./vim)

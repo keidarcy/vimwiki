@@ -1,38 +1,46 @@
 # vim
 
-## vim 8
+## vim
 
-### feature 
-
+### Single short cut
+ - `#` to last same word, `*` to next same word
+ - `%` to close bracket like `{` to `}`
+ - `s``s` for easymotion
+ - `J` joins next line
  - <C-6> toggle from two files 2.<C-o> go back; <C-i> go forward
  - 'zz' go middle
  - change surrounding double quote to single quote cs"'
- - 'J' will take the next line below to current line
  - '.' always repeat last operation
  - mark:
    'm', any key to mark,
    then backtick the key marked bring you back
    :marks to check
- -  macros:
+   
+###  macros:
    'q', any key to register,
    @ + the key
    :reg to check
+
+### fzf
+
+### vim-interestingwords
+ - `<leader>k` highlight `<leader>K` unhighlight
    
    
-### short cut
-   - `#` to last same word, `*` to next same word
-   - `%` to close bracket like `{` to `}`
+   
+### [surround.vim](https://github.com/tpope/vim-surround) $ame with vscode/vim
+    - `"Hello"` press `ysiw]` => `[Hello]`
 
 
 ## VSCode vim
 
 [reference](https://github.com/VSCodeVim/Vim)
 
-## feature
- - easymothion
+### easymothion
     - `f` => <leader><leader>s
     - <leader><leader>/ <char>...<CR> => find n char
- - vim-commentary
+### vim-commentary
     - `gc` toggles line comment
     - `gC` toggles block comment
+    - `s` for easymotion
 

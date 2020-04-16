@@ -1,6 +1,8 @@
 # vim
 
-## vim
+## terminal
+
+### feature
 
 ### Single short cut
  - `#` to last same word, `*` to next same word
@@ -15,7 +17,7 @@
    'm', any key to mark,
    then backtick the key marked bring you back
    :marks to check
-   
+
 ###  macros:
    'q', any key to register,
    @ + the key
@@ -25,11 +27,16 @@
 
 ### vim-interestingwords
  - `<leader>k` highlight `<leader>K` unhighlight
-   
-   
-   
+
+
+
 ### [surround.vim](https://github.com/tpope/vim-surround) $ame with vscode/vim
     - `"Hello"` press `ysiw]` => `[Hello]`
+
+### Plugins
+ - [fzf](https://github.com/junegunn/fzf.vim)
+    - `:Files`
+    - `:Rg`
 
 
 ## VSCode vim

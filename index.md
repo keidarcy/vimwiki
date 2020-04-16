@@ -3,6 +3,7 @@
 
 ## List
  * [list](./list)
+ * [tool](./tool.md)
  * 
 ## DevOps
 

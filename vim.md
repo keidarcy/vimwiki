@@ -1,6 +1,6 @@
 # vim
 
-## vim 8
+## terminal
 
 ### feature 
 
@@ -22,6 +22,11 @@
 ### short cut
    - `#` to last same word, `*` to next same word
    - `%` to close bracket like `{` to `}`
+
+### Plugins
+ - [fzf](https://github.com/junegunn/fzf.vim)
+    - `:Files`
+    - `:Rg`
 
 
 ## VSCode vim

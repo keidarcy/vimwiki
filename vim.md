@@ -24,6 +24,8 @@
    :reg to check
 
 ### fzf
+ - `⌃ + v` open in a vertical splite
+ - `⌃ + t` open in a new tab
 
 ### vim-interestingwords
  - `<leader>k` highlight `<leader>K` unhighlight

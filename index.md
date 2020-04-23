@@ -4,11 +4,12 @@
 ## ❯List
  * [list](./list)
  * [tool](./tool.md)
- * 
-## ❯DevOps
+ * [note](./note.md)
+## ❯Dev
+ * [React](React)
 
  * [Git](./git)
- * 
+ *
 ## ❯Shell
 
 ## ❯Snippets & Tips
@@ -22,4 +23,3 @@
 
 ----
  * [README](README)
-
